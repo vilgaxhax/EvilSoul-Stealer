@@ -83,7 +83,7 @@ Join the Discord community for support, updates, and more:
 
 👉 [Click here to join Telegram](https://t.me/evilsoul1337)
 
-👉 [For commissions on crypters for stealer 0/69 Virustotal, DM me on Telegram. Commissions up to $20!](@hellchaos7)
+👉 [For commissions on crypters for stealer 0/69 Virustotal, DM me on Telegram. Commissions up to $20!](https://t.me/hellchaos7)
 
 ---
 
