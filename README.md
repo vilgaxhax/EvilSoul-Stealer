@@ -9,43 +9,24 @@
 ✅ / Stealer Features
 
 [>] ProcessEvasion Antivirus
-
 [>] Steal Tokens Discord
-
 [>] Steal Exodus And Wallets Extensions
-
 [>] Steal Sessions (Roblox, Steam, Minecraft)
-
 [>] It is always updated frequently so as not to be detected as a virus
-
 [>] Steall Data All browsers, Includes Chrome bypass
-
 [>] Persistence system so as not to be removed so simply
-
 [>] Relogs Startup And Connection with panel
-
 [>] WebPanel 
-
 [>] Screenviewer Victim's
-
 [>] New DiscordData Victim's
-
 [>] New BrowserData Victim's
-
 [>] Send Alerts Victim's
-
 [>] Send Jumpscares Victim's
-
 [>] Play Music 
-
 [>] Change Wallpaper
-
 [>] Manage TaskManager
-
 [>] Terminal Victim's
-
 [>] Steal Files Victim's
-
 [>] ControlPanel (Magic Screen, Restart, Shutdown, Block Screen)
 
 📡 / Discord Features
