@@ -66,12 +66,19 @@
 🤖 / Builder System
 
 [>] Builds Via Telegram Bot
+
 [>] Builds (EXE and MSI) 
+
 [>] totally FUD on VirusTotal 0/69
+
 [>] Fast Execution
+
 [>] Full customization via bot 
+
 [>] protected encryption
+
 [>] Webhooks protected via API
+
 [>] organized and detailed embeds
 
 and much more!
